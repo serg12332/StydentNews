@@ -18,6 +18,16 @@
     "category": "Бизнес",
     "isNewsOfDay": false,
     "colorClass": "tile-color-2"
+  },
+  {
+    "title": "ПИВО",
+    "date": "14 мая 2012",
+    "image": "https://serg12332.github.io/StydentNews/newses/img/097d8fd9bb676827a2a220d5df4847808070958c.jpg",
+    "description": "ПИВО ПИВО ПИВО ПИВО",
+    "fullText": "<p>СЕПЕР ПИВО</p>",
+    "category": "ПИВО",
+    "isNewsOfDay": false,
+    "colorClass": "tile-color-2"
   }
 
 ]
