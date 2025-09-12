@@ -13,10 +13,10 @@
     "title": "Другая новость",
     "date": "14 мая 2012",
     "image": "https://serg12332.github.io/StydentNews/newses/img/097d8fd9bb676827a2a220d5df4847808070958c.jpg",
-    "description": "Другое краткое описание...",
+    "description": "Другое краткое описание...Другое краткое описание...Другое краткое описание...Другое краткое описание...Другое краткое описание...Другое краткое описание...",
     "fullText": "<p>Другой полный текст новости</p>",
     "category": "Бизнес",
-    "isNewsOfDay": false,
+    "isNewsOfDay": true,
     "colorClass": "tile-color-2"
   },
   {
@@ -26,7 +26,7 @@
     "description": "ПИВО ПИВО ПИВО ПИВО",
     "fullText": "<p>СЕПЕР ПИВО</p>",
     "category": "ПИВО",
-    "isNewsOfDay": true,
+    "isNewsOfDay": false,
     "colorClass": "tile-color-2"
   }
 
