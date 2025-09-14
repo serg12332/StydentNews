@@ -6,7 +6,7 @@
     "description": "Краткое описание новости...",
     "fullText": "<p>Полный текст новости в HTML формате</p>",
     "category": "Технологии",
-    "isNewsOfDay": false,
+    "isNewsOfDay": true,
     "colorClass": "tile-color-1"
   },
   {
@@ -16,7 +16,7 @@
     "description": "Другое краткое описание...Другое краткое описание...Другое краткое описание...Другое краткое описание...Другое краткое описание...Другое краткое описание...",
     "fullText": "<p>Другой полный текст новости</p>",
     "category": "Бизнес",
-    "isNewsOfDay": true,
+    "isNewsOfDay": false,
     "colorClass": "tile-color-2"
   },
   {
