@@ -16,7 +16,7 @@
     "description": "Другое краткое описание...Другое краткое описание...Другое краткое описание...Другое краткое описание...Другое краткое описание...Другое краткое описание...",
     "fullText": "<p>Другой полный текст новости</p>",
     "category": "Бизнес",
-    "isNewsOfDay": false,
+    "isNewsOfDay": true,
     "colorClass": "tile-color-2"
   },
   {
@@ -26,7 +26,7 @@
     "description": "ПИВО ПИВО ПИВО ПИВО",
     "fullText": "<p>СЕПЕР ПИВО</p>",
     "category": "ПИВО",
-    "isNewsOfDay": true,
+    "isNewsOfDay": false,
     "colorClass": "tile-color-2"
   }
 
